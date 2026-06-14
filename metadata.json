@@ -1,0 +1,6 @@
+{
+  "name": "CSC Order Tracker",
+  "description": "Digital Order Book & Tracker for CSC Cafe. Request PAN, Passport, and other CSC services, upload documents, and track your application status in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
